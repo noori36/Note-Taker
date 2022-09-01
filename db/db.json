@@ -1,6 +1,29 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Take Some Notes!",
+      "text": "This application allows you to add and delete notes. To add notes start by clicking the pencil icon at the top. Once you've entered your note in the body click the save icon located in the top right-hand corner.",
+      "id": "0"
+    },
+    {
+      "title": "First Note",
+      "text": "My New Note",
+      "id": "1"
+    },
+    {
+      "title": "Second Note",
+      "text": "My New Note",
+      "id": "1"
+    },
+    {
+      "title": "Third Note",
+      "text": "My New Note",
+      "id": "1"
+    },
+    {
+      "title": "add new note here",
+      "text": "final commit after done this",
+      "id": "4"
     }
-]
+  ]
+}
