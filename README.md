@@ -38,7 +38,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality: 
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
+<br><img src="./public/assets/images/Screen1.png" alt="screenshot of starting page" width="350"/>
+<br><img src="./public/assets/images/Screen2.png" alt="screenshot of exsisting notes page" width="350"/>
+<br><img src="./public/assets/images/Screen3.png" alt="screenshot of new note taking in the app" width="350"/>
+<br><img src="./public/assets/images/Screen4.png" alt="screenshot of new note add in the app" width="350"/>
 
 ![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
 
