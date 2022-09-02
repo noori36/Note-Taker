@@ -26,7 +26,7 @@ The following images show the web application's appearance and functionality:
 
 [The URL of the functional, deployed application.](https://noori36.github.io/WorkDayScheduler/)
 
-[The URL of the GitHub repository.](https://github.com/noori36/WorkDayScheduler)
+[The URL of the GitHub repository.](https://github.com/noori36/Note-Taker)
 
 - - -
 
